@@ -24,11 +24,14 @@
 ## Docker-compose Backend githubaction yml
 <img src= "image/image (1).png" width="100%" height="100%">
 
-## k8s gitaction.yml
+## docker-compose.yml
 <img src= "image/image (2).png" width="100%" height="100%">
 
-## docker-compose.yml
+## k8s gitaction.yml
 <img src= "image/image (3).png" width="100%" height="100%">
+
+## deploy.yml
+
 
 
 <br/>
