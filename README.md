@@ -31,6 +31,7 @@
 <img src= "image/image (3).png" width="100%" height="100%">
 
 ## deploy.yml
+<img src= "image/image (4).png" width="60%" height="60%">
 
 
 
