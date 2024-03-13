@@ -9,26 +9,26 @@
 # 📈아키텍처 설계서
 
 ## 📍백엔드 아키텍처
-![pojang 아키텍처-백엔드 배포 drawio](https://github.com/SimJH99/readme-templete/assets/78871184/2cd5cdce-469e-42f1-8583-29dff81f7510)
+<img src= "image/pojang 아키텍처-백엔드 배포.drawio.png" width="100%" height="100%">
 
 ## 📍프론트엔드 아키텍처
-![pojang 아키텍처-프론트 배포 drawio](https://github.com/SimJH99/readme-templete/assets/78871184/61924dd3-c0e5-450c-ad87-267f43d01bad)
+<img src= "image/pojang 아키텍처-프론트 배포.drawio.png" width="100%" height="100%">
 
 <br/>
 
 # 📝구성스크립트
 
 ## Frontend
-![image](https://github.com/SimJH99/readme-templete/assets/78871184/c8f53284-351d-45ad-91d6-683c54d8f9e9)
+<img src= "image/image.png" width="100%" height="100%">
 
 ## Docker-compose Backend githubaction yml
-![image (1)](https://github.com/SimJH99/readme-templete/assets/78871184/b99df443-11bc-461a-9275-26c8e7a5e547)
+<img src= "image/image (1).png" width="100%" height="100%">
 
 ## k8s gitaction.yml
-![image (2)](https://github.com/SimJH99/readme-templete/assets/78871184/aea71fe4-eb3c-421e-8f20-422c8f47eeee)
+<img src= "image/image (2).png" width="100%" height="100%">
 
 ## docker-compose.yml
-![image (3)](https://github.com/SimJH99/readme-templete/assets/78871184/eae05fd7-581f-4e88-84f3-33691ff58456)
+<img src= "image/image (3).png" width="100%" height="100%">
 
 
 <br/>
