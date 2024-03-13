@@ -19,7 +19,7 @@
 # 📝구성스크립트
 
 ## Frontend
-<img src= "image/image.png" width="100%" height="100%">
+<img src= "image/image.png" width="60%" height="60%">
 
 ## Docker-compose Backend githubaction yml
 <img src= "image/image (1).png" width="100%" height="100%">
@@ -28,7 +28,7 @@
 <img src= "image/image (2).png" width="100%" height="100%">
 
 ## k8s gitaction.yml
-<img src= "image/image (3).png" width="100%" height="100%">
+<img src= "image/image (3).png" width="80%" height="80%">
 
 ## deploy.yml
 <img src= "image/image (4).png" width="60%" height="60%">
